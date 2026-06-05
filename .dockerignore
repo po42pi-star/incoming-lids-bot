@@ -1,9 +1,13 @@
-.env
-.venv
-__pycache__/
+*.tar
+*.tar.gz
+*.img
+
+# Build artifacts
+dist/
+build/
 *.pyc
-*.pyo
-*.pyd
-.Python
-.git
-.gitignore
+__pycache__/
+
+# Environment
+.env
+.venv/
