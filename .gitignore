@@ -1,8 +1,24 @@
-.env
 __pycache__/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-*.pyc
-venv/
+*.py[cod]
+*$py.class
+*.so
+.Python
 .venv/
+ENV/
+
+# Environment
+.env
+
+# Docker
+*.tar
+*.tar.gz
+*.img
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
