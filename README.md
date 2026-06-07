@@ -237,7 +237,6 @@ incoming-lids-bot/
 ├── .gitignore                       # Исключения для Git
 ├── Dockerfile                       # Образ для деплоя
 ├── LICENSE                          # Лицензия MIT
-├── REPORT.md                        # Отчёт по адаптации проекта
 ├── README.md                        # Документация проекта
 │
 ├── bot/                             # Telegram бот
