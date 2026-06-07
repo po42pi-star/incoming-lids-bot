@@ -270,8 +270,7 @@ incoming-lids-bot/
 │       ├── __init__.py
 │       └── operator_notifier.py     # Отправка заявки в чат операторов
 │
-└── docs/
-    └── images/                      # Скриншоты
+└── screenshots/                     # Скриншоты 
 ```
 
 ---
